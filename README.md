@@ -28,3 +28,9 @@ gogo rebase!
 >>>>>>> c87d9ed ('m')
 
 진희님을 위한 commit 입니다... rebase화이팅!
+
+
+rise merge error
+
+this is written in mE branch
+rise merge error in mergeError branch
