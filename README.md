@@ -2,6 +2,7 @@
 
 git rebase
 
+
 재영:
 재영: commt2
 
@@ -17,12 +18,15 @@ Hello World!!
 
 PR.\_.PR 
 
-<<<<<<< HEAD
+
 ### Rebase
 
 gogo rebase!
-=======
-
 
 할 수 있다아아아아@@@
->>>>>>> c87d9ed ('m')
+
+재영: 
+
+
+
+서윤 : 아아ㅏ
